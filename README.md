@@ -20,3 +20,9 @@ Launch Unreal Engine
 Go to "Settings" --> "Plugins" --> "Installed" --> "Animation" --> enable "Live Link Manus Core plugin"
 At the bottom of the Unreal Engine interface: "View Options" --> enable "Show Plugin Content" and "Show Engine Content"
 Preparation
+Running the Simulation
+
+Open project "GraspingProject"
+In "Content Browser", go to folder \Content\AllThingsNeeded, double click on "NewWorldTest1"
+Click "Play"
+Now you can play with the right Manus glove (Try gently touching the Object with each finger tip!)
