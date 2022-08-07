@@ -26,3 +26,5 @@ Open project "GraspingProject"
 In "Content Browser", go to folder \Content\AllThingsNeeded, double click on "NewWorldTest1"
 Click "Play"
 Now you can play with the right Manus glove (Try gently touching the Object with each finger tip!)
+
+Check our presentation for more information.
