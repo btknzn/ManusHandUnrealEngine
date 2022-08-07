@@ -28,6 +28,5 @@ Click "Play"
 Now you can play with the right Manus glove (Try gently touching the Object with each finger tip!)
 
 Check our presentation for more information: 
-https://github.com/btknzn/ManusHandUnrealEngine
+https://github.com/btknzn/ManusHandUnrealEngine/blob/main/Lastversion.pdf
 
-And videos:
