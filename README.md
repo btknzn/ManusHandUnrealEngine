@@ -27,4 +27,7 @@ In "Content Browser", go to folder \Content\AllThingsNeeded, double click on "Ne
 Click "Play"
 Now you can play with the right Manus glove (Try gently touching the Object with each finger tip!)
 
-Check our presentation for more information.
+Check our presentation for more information: 
+https://github.com/btknzn/ManusHandUnrealEngine
+
+And videos:
